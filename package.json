@@ -1,0 +1,22 @@
+{
+  "name": "react-auto-update",
+  "version": "0.1.1",
+  "description": "Auto update",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "immutable",
+    "auto",
+    "react",
+    "es6",
+    "@"
+  ],
+  "dependencies": {
+    "immutable": "^4.0.0"
+  },
+  "author": "bone",
+  "license": "MIT",
+  "repository": "https://github.com/1140571314/react-auto-mount"
+}
